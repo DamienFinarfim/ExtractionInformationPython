@@ -1,3 +1,3 @@
 #### Extraindo informações de URL
 
-##### Praticando python na utilização de estratores de CEP, URL e validação de URL.
+##### Foi utilizado nesse exercício a linguagem python para desenvolver códigos estratores de CEP, URL e validação de URL.
